@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://psianagoncalves.com.br/sitemap.xml
